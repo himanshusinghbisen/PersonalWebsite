@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/About.tsx","./src/components/Contact.test.tsx","./src/components/Contact.tsx","./src/components/Hero.tsx","./src/components/Navbar.tsx","./src/components/Projects.tsx","./src/data/site.ts","./src/lib/validateContact.ts","./src/test/setup.ts"],"version":"5.9.3"}
